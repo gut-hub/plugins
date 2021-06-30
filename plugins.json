@@ -1,0 +1,14 @@
+{
+  "name": "Gut Plugins",
+  "plugins": [
+    {
+      "name": "gut-time",
+      "repo": "https://github.com/gut-hub/gut-time",
+      "release": "latest",
+      "macos": null,
+      "windows": null,
+      "linux": null,
+      "wasm": "gut_time.wasm"
+    }
+  ]
+}
