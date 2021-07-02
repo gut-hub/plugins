@@ -10,6 +10,16 @@
       "windows": null,
       "linux": null,
       "wasm": "gut_time.wasm"
+    },
+    {
+      "name": "gut-cert-check",
+      "description": "Prints the certificate expiration date of the provided host",
+      "repo": "https://github.com/gut-hub/gut-cert-check",
+      "release": "latest",
+      "macos": "libgut_cert_check.dylib",
+      "windows": null,
+      "linux": "libgut_cert_check.so",
+      "wasm": null
     }
   ]
 }
