@@ -3,6 +3,7 @@
   "plugins": [
     {
       "name": "gut-time",
+      "description": "Prints the current time in milliseconds since the UNIX epoch",
       "repo": "https://github.com/gut-hub/gut-time",
       "release": "latest",
       "macos": null,
