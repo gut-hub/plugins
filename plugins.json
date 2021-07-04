@@ -17,7 +17,7 @@
       "repo": "https://github.com/gut-hub/gut-cert-check",
       "release": "latest",
       "macos": "libgut_cert_check.dylib",
-      "windows": null,
+      "windows": "gut_cert_check.dll",
       "linux": "libgut_cert_check.so",
       "wasm": null
     }
