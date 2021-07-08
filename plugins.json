@@ -20,6 +20,16 @@
       "windows": "gut_cert_check.dll",
       "linux": "libgut_cert_check.so",
       "wasm": null
+    },
+    {
+      "name": "gut-jinx",
+      "description": "Proxy and deploy docker containers",
+      "repo": "https://github.com/gut-hub/gut-jinx",
+      "release": "latest",
+      "macos": "libgut_jinx.dylib",
+      "windows": "gut_jinx.dll",
+      "linux": "libgut_jinx.so",
+      "wasm": null
     }
   ]
 }
