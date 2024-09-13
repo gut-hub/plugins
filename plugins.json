@@ -6,7 +6,8 @@
       "description": "Prints the current time in milliseconds since the UNIX epoch",
       "repo": "https://github.com/gut-hub/gut-time",
       "release": "latest",
-      "macos": null,
+      "macos-x86": null,
+      "macos-aarch64": null,
       "windows": null,
       "linux": null,
       "wasm": "gut_time.wasm"
@@ -16,7 +17,8 @@
       "description": "Prints the certificate expiration date of the provided host",
       "repo": "https://github.com/gut-hub/gut-cert-check",
       "release": "latest",
-      "macos": "libgut_cert_check.dylib",
+      "macos-x86": "libgut_cert_check-x86.dylib",
+      "macos-aarch64": "libgut_cert_check-aarch64.dylib",
       "windows": "gut_cert_check.dll",
       "linux": "libgut_cert_check.so",
       "wasm": null
@@ -26,7 +28,8 @@
       "description": "Proxy and deploy docker containers",
       "repo": "https://github.com/gut-hub/gut-jinx",
       "release": "latest",
-      "macos": "libgut_jinx.dylib",
+      "macos-x86": "libgut_jinx.dylib",
+      "macos-aarch64": null,
       "windows": "gut_jinx.dll",
       "linux": "libgut_jinx.so",
       "wasm": null
